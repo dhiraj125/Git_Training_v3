@@ -1,2 +1,4 @@
 This is Sample File 2 created in Develop Branch
 This is Practice of Comparison File 2
+
+Added a new line to test merge in Main Branch File
