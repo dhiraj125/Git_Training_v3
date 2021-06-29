@@ -1,3 +1,6 @@
 This is Sample File 1 created in Develop Branch
+Merge Lab on Develop Branch
+Merge Lab on Develop Branch
 This is Practice of Comparison
 This is the lab of Merging
+
